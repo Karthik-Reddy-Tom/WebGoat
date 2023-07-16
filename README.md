@@ -1,4 +1,4 @@
-Testing with WebGoat
+Performing a SAST Scan with Fortify and pushing the results automatically to SSC.
 
 
 # WebGoat 8: A deliberately insecure Web Application
